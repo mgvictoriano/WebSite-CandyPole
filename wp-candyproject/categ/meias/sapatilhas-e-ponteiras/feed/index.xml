@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sapatilhas e ponteiras - Candy Pole</title>
+	<atom:link href="/categ/meias/sapatilhas-e-ponteiras/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pole dance &#38; Fitness Store</description>
+	<lastBuildDate>Tue, 26 Jul 2022 03:26:08 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Meias Sad Cute Cat</title>
+		<link>/produto/meias-sad-cute-cat/</link>
+		
+		<dc:creator><![CDATA[Michelle]]></dc:creator>
+		<pubDate>Fri, 14 Jan 2022 20:26:06 +0000</pubDate>
+				<guid isPermaLink="false">/produto/meias-sad-cute-cat/</guid>
+
+					<description><![CDATA[<p>Meias de algodão com bolinhas antiderrapantes ♥</p>
+<p>The post <a href="/produto/meias-sad-cute-cat/">Meias Sad Cute Cat</a> first appeared on <a href="/">Candy Pole</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Meias de algodão com bolinhas antiderrapantes ♥</p>
+<p>The post <a href="/produto/meias-sad-cute-cat/">Meias Sad Cute Cat</a> first appeared on <a href="/">Candy Pole</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Kit de ponteiras (5 pares)</title>
+		<link>/produto/kit-de-ponteiras-5-pares/</link>
+		
+		<dc:creator><![CDATA[Michelle]]></dc:creator>
+		<pubDate>Fri, 14 Jan 2022 18:03:09 +0000</pubDate>
+				<guid isPermaLink="false">/produto/kit-de-ponteiras-5-pares/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

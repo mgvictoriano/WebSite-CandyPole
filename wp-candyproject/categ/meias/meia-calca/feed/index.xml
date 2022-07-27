@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Meia calça - Candy Pole</title>
+	<atom:link href="/categ/meias/meia-calca/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pole dance &#38; Fitness Store</description>
+	<lastBuildDate>Fri, 18 Feb 2022 16:26:16 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Meia calça Glow</title>
+		<link>/produto/meia-calca-glow/</link>
+		
+		<dc:creator><![CDATA[Michelle]]></dc:creator>
+		<pubDate>Fri, 14 Jan 2022 19:09:32 +0000</pubDate>
+				<guid isPermaLink="false">/produto/meia-calca-glow/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="detailmodule_html">
+<div class="detail-desc-decorate-richtext">
+<p align="left" style="text-align:left;margin:0px;margin-bottom:0px;margin-top:0px;margin-left:0px;margin-right:0px"><img height="800px" src="https://ae01.alicdn.com/kf/H171d0bfb971141e5afd0e9735854a5fbe.jpg?width=800&amp;height=800&amp;hash=1600" style="width:800px;height:800px" width="800px"><br />
+<img height="800px" src="https://ae03.alicdn.com/kf/H6bae31c0376b46e4bcf18c4013f9ef12M.jpg" style="width:800px;height:800px" width="800px"><br />
+<img height="800px" src="https://ae03.alicdn.com/kf/Hc681114ee227467d85c3e6b887afb48ar.jpg" style="width:800px;height:800px" width="800px"><br />
+<img height="800px" src="https://ae03.alicdn.com/kf/Hb66c97b6fee4405890165c97de790054j.jpg" style="width:800px;height:800px" width="800px"><br />
+<img height="800px" src="https://ae03.alicdn.com/kf/Heba47c16a996452a8d78399e26d7f09dZ.jpg" style="width:800px;height:800px" width="800px"></p>
+</div>
+</div><p>The post <a href="/produto/meia-calca-glow/">Meia calça Glow</a> first appeared on <a href="/">Candy Pole</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
