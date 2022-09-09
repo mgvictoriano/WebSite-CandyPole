@@ -1,5 +1,5 @@
 # WebSite-Project
-Web Site for e-commerce made through Wordpress plataform + CSS. First project 100% solo made around nov/2021
+Web Site desenvolvido para um e-commerce de venda de vestuário. Foi utilizado a plataforma Wordpress, com o ooncstrutor Elementor Pro e Crocoblock, e otimização e customização em CSS.
 
 ![alt text](https://github.com/mgvictoriano/WebSite-Project/blob/main/Candy%20Pole1.jpg)
 
