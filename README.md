@@ -1,5 +1,6 @@
-# WebSite-Project
-Web Site desenvolvido para um e-commerce de venda de vestuário. Foi utilizado a plataforma Wordpress, com o construtor Elementor Pro e Crocoblock, otimização e customização em CSS.
+# WebSite-CandyPole
+
+Web Site desenvolvido para um e-commerce de venda de vestuário. Foi utilizado a plataforma Wordpress, com o construtor Elementor Pro e Crocoblock, otimização e customização em CSS. Para as imagens, foi utilizado Adobe Photoshop e Illustrator.
 
 ![alt text](https://github.com/mgvictoriano/WebSite-Project/blob/main/Candy%20Pole1.jpg)
 
